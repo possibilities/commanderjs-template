@@ -1,12 +1,12 @@
 {
-  "name": "commanderjs-template",
+  "name": "PROJECT_NAME",
   "version": "0.1.0",
   "author": "Mike Bannister <notimpossiblemike@gmail.com>",
   "license": "MIT",
-  "description": "CommanderJS Template",
+  "description": "PROJECT_TITLE",
   "type": "module",
   "bin": {
-    "commanderjs-template": "./dist/cli.js"
+    "PROJECT_NAME": "./dist/cli.js"
   },
   "scripts": {
     "build": "tsup",

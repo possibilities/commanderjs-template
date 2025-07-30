@@ -5,8 +5,8 @@ async function main() {
   const program = new Command()
 
   program
-    .name('commanderjs-template')
-    .description('CommanderJS Template CLI')
+    .name('PROJECT_NAME')
+    .description('PROJECT_TITLE CLI')
     .version(packageJson.version)
     .action(() => {
       console.log('hello world')
