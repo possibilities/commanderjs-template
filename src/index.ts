@@ -6,7 +6,7 @@ async function main() {
 
   program
     .name('commanderjs-template')
-    .description('A template for creating CLI tools with Commander.js')
+    .description('CommanderJS Template CLI')
     .version(packageJson.version)
     .action(() => {
       console.log('hello world')
